@@ -23,7 +23,7 @@
 }
 
 .col-md-4-list-group {
-    align-items: right;
+    justify-content: right;
     width:30%;
 }
 
@@ -34,4 +34,8 @@ background-color: #eee;
 .row {
     display:flex;
     flex-direction: row;
+}
+
+.video-detail-col-md-8 {
+    width: 70%;
 }
